@@ -4,7 +4,24 @@
 a cool GUI for C# and .NET projects
 Visit my website here : http://karismatik.moziware.net
 
-##(The MIT licence)
+# Installation 
+1. Start new project 
+![screenshot 1](https://github.com/AmineKarismatik/MetroFramework-Dll/blob/master/screenshots/1.jpg)
+
+2.go to Projects ->References 
+![screenshot 2](https://github.com/AmineKarismatik/MetroFramework-Dll/blob/master/screenshots/2.jpg) 
+
+3.Add the dll's files 
+![screenshot 3](https://github.com/AmineKarismatik/MetroFramework-Dll/blob/master/screenshots/3.jpg) 
+
+4.Edit Form.Designer.vb
+**Inherits MetroFramework.Forms.MetroForm** 
+![screenshot 5](https://github.com/AmineKarismatik/MetroFramework-Dll/blob/master/screenshots/5.jpg) 
+
+5.Rebuild the entire project
+
+6.Enjoy
+![screenshot 6](https://github.com/AmineKarismatik/MetroFramework-Dll/blob/master/screenshots/6.jpg) 
 
 
 ##(The MIT licence)
